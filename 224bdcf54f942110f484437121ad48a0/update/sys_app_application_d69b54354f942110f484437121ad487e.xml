@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>kl</description>
+        <device_type>browser</device_type>
+        <hint>kl</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>utkarshsingh</sys_created_by>
+        <sys_created_on>2023-01-10 10:51:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d69b54354f942110f484437121ad487e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test" source="224bdcf54f942110f484437121ad48a0">224bdcf54f942110f484437121ad48a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">224bdcf54f942110f484437121ad48a0</sys_scope>
+        <sys_update_name>sys_app_application_d69b54354f942110f484437121ad487e</sys_update_name>
+        <sys_updated_by>utkarshsingh</sys_updated_by>
+        <sys_updated_on>2023-01-10 10:51:01</sys_updated_on>
+        <title>Test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
